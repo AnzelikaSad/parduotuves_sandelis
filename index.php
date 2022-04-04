@@ -1,3 +1,3 @@
 <?php
-echo data('H:t:s');
-
+echo date('H:i:s');
+echo 'labas vakaras';
