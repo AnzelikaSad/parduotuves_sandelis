@@ -1,3 +1,3 @@
 <?php
-echo 'parduotuves_sandelis';
+echo 'parduotuves_sandelisss';
 
