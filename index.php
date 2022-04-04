@@ -1,3 +1,3 @@
 <?php
-echo 'parduotuves_sandelisss';
+echo data('H:t:s');
 
