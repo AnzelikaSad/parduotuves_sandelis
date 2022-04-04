@@ -1,4 +1,3 @@
 <?php
-echo 'parduotuves_sandelisss';
-
-echo 'labas rytas';
+echo date('H:i:s');
+echo 'labas rytas arba vakaras';
